@@ -10,6 +10,10 @@ All received postcards are published on our website and mentioned on this repo r
 
 After sending please ping me once.
 
+## Screen
+
+![Alt text](/screen/screen.png?raw=true "Example page")
+
 ## Installation
 * Just download or clone this repo and add it to your wordpress installation at plugin folder. If any problem please post on issue.
 
